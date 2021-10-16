@@ -1,2 +1,2 @@
 # hello_word
-just for practice git
+just for putting my practice code
