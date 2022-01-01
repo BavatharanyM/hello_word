@@ -86,4 +86,11 @@
 			System.out.println("false");
 		
 		`
+		
+		
+		```
+git status
+git add
+git commit
+```
 
