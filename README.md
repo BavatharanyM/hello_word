@@ -2,5 +2,5 @@
 
 
 ## The largest heading
-**bold letters ** ** syntax **
+**This is bold text**
 
